@@ -2,7 +2,7 @@
 
 From positional clues to moves you can explain
 
-Live course: https://knightway8.github.io/chess13/
+Live course: https://1d42c4.github.io/chess13/
 
 ## 01. A plan begins after the safety scan
 

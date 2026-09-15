@@ -1,5 +1,5 @@
 [Event "Make a Plan: structure-001"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-001"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-001"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -11,7 +11,7 @@
 { How many fully open files contain no pawns of either color? Answer: 0. Open files: none. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-002"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-002"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-002"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -23,7 +23,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 1. Black half-open files: d. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-003"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-003"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-003"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -35,7 +35,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 1. Isolated pawns: h3. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-004"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-004"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-004"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -47,7 +47,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 1. Friendly pawn files: a, b, c, d, e, f, g, h. Counting connected runs gives 1 island. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-005"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-005"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-005"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -59,7 +59,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 1. Files with doubled or tripled pawns: f. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-006"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-006"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-006"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -71,7 +71,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 0. Pawns meeting this passed-pawn test: none. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-007"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-007"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-007"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -83,7 +83,7 @@
 { How many fully open files contain no pawns of either color? Answer: 0. Open files: none. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-008"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-008"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-008"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -95,7 +95,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 2. Black half-open files: f, g. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-009"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-009"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-009"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -107,7 +107,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 0. Isolated pawns: none. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-010"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-010"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-010"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -119,7 +119,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 4. Friendly pawn files: b, d, f, h. Counting connected runs gives 4 islands. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-011"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-011"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-011"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -131,7 +131,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 1. Files with doubled or tripled pawns: c. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-012"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-012"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-012"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -143,7 +143,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 0. Pawns meeting this passed-pawn test: none. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-013"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-013"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-013"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -155,7 +155,7 @@
 { How many fully open files contain no pawns of either color? Answer: 0. Open files: none. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-014"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-014"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-014"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -167,7 +167,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 1. Black half-open files: c. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-015"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-015"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-015"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -179,7 +179,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 0. Isolated pawns: none. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-016"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-016"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-016"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -191,7 +191,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 1. Friendly pawn files: a, b, c, d, e, f, g, h. Counting connected runs gives 1 island. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-017"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-017"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-017"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -203,7 +203,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 0. Files with doubled or tripled pawns: none. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-018"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-018"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-018"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -215,7 +215,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 2. Pawns meeting this passed-pawn test: a5, b3. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-019"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-019"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-019"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -227,7 +227,7 @@
 { How many fully open files contain no pawns of either color? Answer: 1. Open files: c. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-020"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-020"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-020"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -239,7 +239,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 1. Black half-open files: d. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-021"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-021"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-021"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -251,7 +251,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 0. Isolated pawns: none. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-022"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-022"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-022"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -263,7 +263,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 3. Friendly pawn files: a, b, d, e, f, h. Counting connected runs gives 3 islands. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-023"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-023"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-023"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -275,7 +275,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 0. Files with doubled or tripled pawns: none. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-024"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-024"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-024"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -287,7 +287,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 0. Pawns meeting this passed-pawn test: none. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-025"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-025"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-025"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -299,7 +299,7 @@
 { How many fully open files contain no pawns of either color? Answer: 1. Open files: d. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-026"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-026"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-026"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -311,7 +311,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 0. Black half-open files: none. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-027"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-027"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-027"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -323,7 +323,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 1. Isolated pawns: a2. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-028"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-028"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-028"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -335,7 +335,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 2. Friendly pawn files: a, b, d, e, f, g, h. Counting connected runs gives 2 islands. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-029"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-029"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-029"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -347,7 +347,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 0. Files with doubled or tripled pawns: none. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-030"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-030"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-030"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -359,7 +359,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 2. Pawns meeting this passed-pawn test: h5, h3. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-031"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-031"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-031"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -371,7 +371,7 @@
 { How many fully open files contain no pawns of either color? Answer: 0. Open files: none. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-032"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-032"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-032"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -383,7 +383,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 2. Black half-open files: d, g. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-033"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-033"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-033"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -395,7 +395,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 0. Isolated pawns: none. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-034"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-034"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-034"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -407,7 +407,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 2. Friendly pawn files: a, b, c, f, g, h. Counting connected runs gives 2 islands. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-035"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-035"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-035"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -419,7 +419,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 0. Files with doubled or tripled pawns: none. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-036"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-036"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-036"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -431,7 +431,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 0. Pawns meeting this passed-pawn test: none. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-037"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-037"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-037"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -443,7 +443,7 @@
 { How many fully open files contain no pawns of either color? Answer: 1. Open files: e. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-038"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-038"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-038"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -455,7 +455,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 3. Black half-open files: a, c, e. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-039"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-039"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-039"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -467,7 +467,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 0. Isolated pawns: none. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-040"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-040"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-040"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -479,7 +479,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 3. Friendly pawn files: a, b, c, d, f, h. Counting connected runs gives 3 islands. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-041"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-041"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-041"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -491,7 +491,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 0. Files with doubled or tripled pawns: none. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-042"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-042"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-042"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -503,7 +503,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 0. Pawns meeting this passed-pawn test: none. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-043"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-043"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-043"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -515,7 +515,7 @@
 { How many fully open files contain no pawns of either color? Answer: 1. Open files: e. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-044"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-044"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-044"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -527,7 +527,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 1. Black half-open files: a. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-045"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-045"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-045"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -539,7 +539,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 0. Isolated pawns: none. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-046"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-046"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-046"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -551,7 +551,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 2. Friendly pawn files: a, b, c, e, f, g, h. Counting connected runs gives 2 islands. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-047"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-047"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-047"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -563,7 +563,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 1. Files with doubled or tripled pawns: f. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-048"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-048"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-048"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -575,7 +575,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 0. Pawns meeting this passed-pawn test: none. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-049"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-049"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-049"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -587,7 +587,7 @@
 { How many fully open files contain no pawns of either color? Answer: 0. Open files: none. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-050"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-050"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-050"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -599,7 +599,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 0. Black half-open files: none. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-051"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-051"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-051"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -611,7 +611,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 0. Isolated pawns: none. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-052"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-052"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-052"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -623,7 +623,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 3. Friendly pawn files: b, d, f, g, h. Counting connected runs gives 3 islands. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-053"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-053"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-053"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -635,7 +635,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 0. Files with doubled or tripled pawns: none. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-054"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-054"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-054"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -647,7 +647,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 0. Pawns meeting this passed-pawn test: none. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-055"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-055"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-055"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -659,7 +659,7 @@
 { How many fully open files contain no pawns of either color? Answer: 0. Open files: none. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-056"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-056"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-056"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -671,7 +671,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 2. Black half-open files: d, e. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-057"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-057"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-057"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -683,7 +683,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 0. Isolated pawns: none. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-058"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-058"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-058"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -695,7 +695,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 2. Friendly pawn files: b, e, f, g, h. Counting connected runs gives 2 islands. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-059"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-059"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-059"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -707,7 +707,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 0. Files with doubled or tripled pawns: none. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-060"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-060"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-060"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -719,7 +719,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 0. Pawns meeting this passed-pawn test: none. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-061"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-061"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-061"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -731,7 +731,7 @@
 { How many fully open files contain no pawns of either color? Answer: 0. Open files: none. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-062"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-062"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-062"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -743,7 +743,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 1. Black half-open files: d. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-063"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-063"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-063"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -755,7 +755,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 0. Isolated pawns: none. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-064"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-064"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-064"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -767,7 +767,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 2. Friendly pawn files: a, b, d, e, f, g, h. Counting connected runs gives 2 islands. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-065"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-065"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-065"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -779,7 +779,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 1. Files with doubled or tripled pawns: c. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-066"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-066"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-066"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -791,7 +791,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 0. Pawns meeting this passed-pawn test: none. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-067"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-067"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-067"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -803,7 +803,7 @@
 { How many fully open files contain no pawns of either color? Answer: 1. Open files: d. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-068"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-068"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-068"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -815,7 +815,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 0. Black half-open files: none. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-069"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-069"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-069"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -827,7 +827,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 0. Isolated pawns: none. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-070"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-070"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-070"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -839,7 +839,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 2. Friendly pawn files: a, b, c, d, f, g, h. Counting connected runs gives 2 islands. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-071"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-071"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-071"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -851,7 +851,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 0. Files with doubled or tripled pawns: none. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-072"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-072"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-072"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -863,7 +863,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 0. Pawns meeting this passed-pawn test: none. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-073"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-073"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-073"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -875,7 +875,7 @@
 { How many fully open files contain no pawns of either color? Answer: 0. Open files: none. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-074"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-074"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-074"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -887,7 +887,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 1. Black half-open files: d. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-075"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-075"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-075"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -899,7 +899,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 0. Isolated pawns: none. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-076"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-076"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-076"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -911,7 +911,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 1. Friendly pawn files: a, b, c, d, e, f. Counting connected runs gives 1 island. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-077"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-077"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-077"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -923,7 +923,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 0. Files with doubled or tripled pawns: none. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-078"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-078"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-078"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -935,7 +935,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 0. Pawns meeting this passed-pawn test: none. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-079"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-079"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-079"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -947,7 +947,7 @@
 { How many fully open files contain no pawns of either color? Answer: 1. Open files: b. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-080"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-080"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-080"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -959,7 +959,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 1. Black half-open files: a. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-081"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-081"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-081"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -971,7 +971,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 0. Isolated pawns: none. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-082"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-082"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-082"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -983,7 +983,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 2. Friendly pawn files: a, b, c, d, e, f, h. Counting connected runs gives 2 islands. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-083"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-083"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-083"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -995,7 +995,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 0. Files with doubled or tripled pawns: none. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-084"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-084"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-084"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1007,7 +1007,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 1. Pawns meeting this passed-pawn test: d3. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-085"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-085"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-085"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1019,7 +1019,7 @@
 { How many fully open files contain no pawns of either color? Answer: 0. Open files: none. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-086"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-086"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-086"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1031,7 +1031,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 1. Black half-open files: c. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-087"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-087"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-087"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1043,7 +1043,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 0. Isolated pawns: none. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-088"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-088"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-088"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1055,7 +1055,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 2. Friendly pawn files: a, b, c, e, f, g, h. Counting connected runs gives 2 islands. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-089"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-089"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-089"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1067,7 +1067,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 1. Files with doubled or tripled pawns: f. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-090"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-090"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-090"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1079,7 +1079,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 0. Pawns meeting this passed-pawn test: none. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-091"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-091"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-091"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1091,7 +1091,7 @@
 { How many fully open files contain no pawns of either color? Answer: 0. Open files: none. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-092"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-092"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-092"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1103,7 +1103,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 1. Black half-open files: d. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-093"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-093"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-093"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1115,7 +1115,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 1. Isolated pawns: a2. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-094"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-094"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-094"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1127,7 +1127,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 1. Friendly pawn files: b, c, d, e, f, g, h. Counting connected runs gives 1 island. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-095"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-095"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-095"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1139,7 +1139,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 0. Files with doubled or tripled pawns: none. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-096"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-096"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-096"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1151,7 +1151,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 0. Pawns meeting this passed-pawn test: none. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-097"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-097"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-097"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1163,7 +1163,7 @@
 { How many fully open files contain no pawns of either color? Answer: 0. Open files: none. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-098"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-098"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-098"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1175,7 +1175,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 1. Black half-open files: e. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-099"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-099"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-099"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1187,7 +1187,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 1. Isolated pawns: b2. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-100"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-100"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-100"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1199,7 +1199,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 2. Friendly pawn files: a, b, d, e, f, g, h. Counting connected runs gives 2 islands. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-101"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-101"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-101"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1211,7 +1211,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 0. Files with doubled or tripled pawns: none. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-102"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-102"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-102"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1223,7 +1223,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 0. Pawns meeting this passed-pawn test: none. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-103"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-103"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-103"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1235,7 +1235,7 @@
 { How many fully open files contain no pawns of either color? Answer: 0. Open files: none. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-104"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-104"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-104"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1247,7 +1247,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 1. Black half-open files: g. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-105"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-105"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-105"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1259,7 +1259,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 0. Isolated pawns: none. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-106"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-106"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-106"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1271,7 +1271,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 2. Friendly pawn files: a, b, c, f, g, h. Counting connected runs gives 2 islands. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-107"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-107"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-107"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1283,7 +1283,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 0. Files with doubled or tripled pawns: none. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-108"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-108"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-108"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1295,7 +1295,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 1. Pawns meeting this passed-pawn test: f4. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-109"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-109"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-109"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1307,7 +1307,7 @@
 { How many fully open files contain no pawns of either color? Answer: 1. Open files: d. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-110"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-110"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-110"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1319,7 +1319,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 1. Black half-open files: g. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-111"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-111"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-111"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1331,7 +1331,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 1. Isolated pawns: d2. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-112"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-112"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-112"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1343,7 +1343,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 2. Friendly pawn files: a, b, c, d, f, g, h. Counting connected runs gives 2 islands. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-113"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-113"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-113"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1355,7 +1355,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 0. Files with doubled or tripled pawns: none. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-114"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-114"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-114"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1367,7 +1367,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 0. Pawns meeting this passed-pawn test: none. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-115"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-115"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-115"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1379,7 +1379,7 @@
 { How many fully open files contain no pawns of either color? Answer: 1. Open files: e. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-116"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-116"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-116"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1391,7 +1391,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 1. Black half-open files: d. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-117"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-117"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-117"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1403,7 +1403,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 1. Isolated pawns: f2. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-118"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-118"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-118"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1415,7 +1415,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 1. Friendly pawn files: a, b, c, d, e, f, g, h. Counting connected runs gives 1 island. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-119"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-119"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-119"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1427,7 +1427,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 0. Files with doubled or tripled pawns: none. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-120"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-120"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-120"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1439,7 +1439,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 1. Pawns meeting this passed-pawn test: b3. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-121"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-121"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-121"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1451,7 +1451,7 @@
 { How many fully open files contain no pawns of either color? Answer: 0. Open files: none. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-122"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-122"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-122"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1463,7 +1463,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 1. Black half-open files: c. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-123"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-123"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-123"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1475,7 +1475,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 0. Isolated pawns: none. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-124"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-124"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-124"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1487,7 +1487,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 1. Friendly pawn files: a, b, c, d, e, f, g, h. Counting connected runs gives 1 island. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-125"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-125"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-125"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1499,7 +1499,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 0. Files with doubled or tripled pawns: none. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-126"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-126"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-126"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1511,7 +1511,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 0. Pawns meeting this passed-pawn test: none. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-127"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-127"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-127"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1523,7 +1523,7 @@
 { How many fully open files contain no pawns of either color? Answer: 1. Open files: d. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-128"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-128"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-128"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1535,7 +1535,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 1. Black half-open files: c. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-129"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-129"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-129"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1547,7 +1547,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 0. Isolated pawns: none. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-130"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-130"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-130"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1559,7 +1559,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 2. Friendly pawn files: b, d, e, f, g, h. Counting connected runs gives 2 islands. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-131"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-131"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-131"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1571,7 +1571,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 0. Files with doubled or tripled pawns: none. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-132"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-132"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-132"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1583,7 +1583,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 0. Pawns meeting this passed-pawn test: none. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-133"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-133"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-133"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1595,7 +1595,7 @@
 { How many fully open files contain no pawns of either color? Answer: 0. Open files: none. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-134"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-134"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-134"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1607,7 +1607,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 2. Black half-open files: d, e. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-135"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-135"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-135"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1619,7 +1619,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 0. Isolated pawns: none. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-136"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-136"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-136"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1631,7 +1631,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 2. Friendly pawn files: a, b, c, f, g, h. Counting connected runs gives 2 islands. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-137"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-137"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-137"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1643,7 +1643,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 0. Files with doubled or tripled pawns: none. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-138"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-138"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-138"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1655,7 +1655,7 @@
 { How many Black pawns have no enemy pawn ahead on their own or either adjacent file? Answer: 1. Pawns meeting this passed-pawn test: c3. A passed pawn may still be blocked by pieces or a friendly pawn; this test does not promise promotion. } *
 
 [Event "Make a Plan: structure-139"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-139"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-139"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1667,7 +1667,7 @@
 { How many fully open files contain no pawns of either color? Answer: 0. Open files: none. An open file still needs useful entry squares to matter strategically. } *
 
 [Event "Make a Plan: structure-140"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-140"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-140"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1679,7 +1679,7 @@
 { How many half-open files does Black have (no friendly pawn, at least one enemy pawn)? Answer: 1. Black half-open files: d. These files may offer pressure against enemy pawns; access and tactics still matter. } *
 
 [Event "Make a Plan: structure-141"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-141"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-141"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1691,7 +1691,7 @@
 { How many White pawns are isolated (no friendly pawn anywhere on either adjacent file)? Answer: 0. Isolated pawns: none. Isolation is a structural fact, not an automatic verdict that the pawn is weak or the position is lost. } *
 
 [Event "Make a Plan: structure-142"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-142"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-142"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1703,7 +1703,7 @@
 { How many pawn islands does Black have? An island is a continuous group of files containing friendly pawns. Answer: 2. Friendly pawn files: a, b, d, e, f, g, h. Counting connected runs gives 2 islands. Rank differences do not split a file-based island. } *
 
 [Event "Make a Plan: structure-143"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-143"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-143"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1715,7 +1715,7 @@
 { How many files contain at least two White pawns? Count files, not individual pawns. Answer: 0. Files with doubled or tripled pawns: none. Evaluate open lines and piece activity before judging the structure. } *
 
 [Event "Make a Plan: structure-144"]
-[Site "https://knightway8.github.io/chess13/practice.html?id=structure-144"]
+[Site "https://1d42c4.github.io/chess13/practice.html?id=structure-144"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
